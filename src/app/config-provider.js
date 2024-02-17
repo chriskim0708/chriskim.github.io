@@ -3,7 +3,7 @@
 import { createContext } from "react";
 import { prefix } from "./config";
 
-const ConfigContext = createContext();
+export const ConfigContext = createContext();
 
 function ConfigProvider({ children }) {
   return (
