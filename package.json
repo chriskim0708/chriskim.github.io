@@ -1,7 +1,7 @@
 {
   "name": "chriskim.github.io",
   "version": "0.1.0",
-  "homepage": "https://chriskim0708.github.io/chriskim.github.io",
+  "homepage": "https://chriskim0708.github.io/portfolio",
   "private": true,
   "scripts": {
     "dev": "next dev",
