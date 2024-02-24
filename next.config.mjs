@@ -5,7 +5,6 @@ const repository = "portfolio";
 const nextConfig = {
   output: "export",
   assetPrefix: !debug ? `/${repository}/` : "",
-  trailingSlash: true,
 };
 
 export default nextConfig;
